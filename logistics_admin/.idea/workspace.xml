@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a71d5ea-8da5-46d3-a723-e288f8691061" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="logistics_admin" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>2 RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRE$RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1q35IuFTTfRgxO54KjlU64Xy2yC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../logistics_vue" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\logistics\logistics_admin\api\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\logistics\logistics_admin\index\views" />
+      <recent name="D:\python\logistics\logistics_admin\index" />
+      <recent name="D:\python\logistics\logistics_admin\api\views" />
+      <recent name="D:\python\logistics\logistics_admin\api" />
+      <recent name="D:\python\logistics\logistics_admin\api\views\login" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="logistics_admin" type="Python.DjangoServer" factoryName="Django server">
+      <module name="logistics_admin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="logistics_admin.settings" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python\logistics\logistics_admin\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="80" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a71d5ea-8da5-46d3-a723-e288f8691061" name="Default Changelist" comment="" />
+      <created>1614854664534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614854664534</updated>
+      <workItem from="1614854873042" duration="1400000" />
+      <workItem from="1614856561151" duration="961000" />
+      <workItem from="1614860933577" duration="4430000" />
+      <workItem from="1614939248859" duration="13173000" />
+      <workItem from="1614996760819" duration="49000" />
+      <workItem from="1615082356970" duration="298000" />
+      <workItem from="1615083150321" duration="61000" />
+      <workItem from="1615083238486" duration="98000" />
+      <workItem from="1615083572588" duration="198000" />
+      <workItem from="1615083836353" duration="66000" />
+      <workItem from="1615083936855" duration="12033000" />
+      <workItem from="1615106943581" duration="12078000" />
+      <workItem from="1615199407910" duration="7851000" />
+      <workItem from="1615284553312" duration="527000" />
+      <workItem from="1615295890685" duration="2655000" />
+      <workItem from="1615375809595" duration="5861000" />
+      <workItem from="1615385137573" duration="4645000" />
+      <workItem from="1615462206148" duration="10505000" />
+      <workItem from="1615547581759" duration="11572000" />
+      <workItem from="1615601430634" duration="20670000" />
+      <workItem from="1615692705061" duration="4981000" />
+      <workItem from="1615893517582" duration="7121000" />
+      <workItem from="1615983811891" duration="5142000" />
+      <workItem from="1616219362901" duration="6137000" />
+      <workItem from="1616290866552" duration="412000" />
+      <workItem from="1616292729705" duration="23000" />
+      <workItem from="1616292796072" duration="20000" />
+      <workItem from="1616292855904" duration="31000" />
+      <workItem from="1616292934147" duration="100000" />
+      <workItem from="1616293121079" duration="42000" />
+      <workItem from="1616293211985" duration="77000" />
+      <workItem from="1616295371638" duration="478000" />
+      <workItem from="1616296558790" duration="466000" />
+      <workItem from="1616298163706" duration="9000" />
+      <workItem from="1616298867542" duration="297000" />
+      <workItem from="1616314900564" duration="8938000" />
+      <workItem from="1616920338601" duration="1994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616295599012">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1616295599012" />
+    <state x="417" y="127" key="EnvironmentVariablesDialog" timestamp="1616295447492">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="127" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1616295447492" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1616923066710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616923066710" />
+    <state width="1322" height="180" key="GridCell.Tab.0.bottom" timestamp="1616923069239">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616923069239" />
+    <state width="1322" height="180" key="GridCell.Tab.0.center" timestamp="1616923069238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616923069238" />
+    <state width="1322" height="180" key="GridCell.Tab.0.left" timestamp="1616923069238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616923069238" />
+    <state width="1322" height="180" key="GridCell.Tab.0.right" timestamp="1616923069238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616923069238" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1616326654818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1616326654818" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
